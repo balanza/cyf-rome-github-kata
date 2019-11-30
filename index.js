@@ -12,5 +12,5 @@ function triangleArea(base, height) {
 
 module.exports = {
     squareArea,
-    squareArea,
+    circleArea,
 };
