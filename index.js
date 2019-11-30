@@ -2,7 +2,7 @@ function squareArea(side) {
     return side * side;
 } 
 
-function squareArea(radius){
+function circleArea(radius){
     return radius * radius * 3.14;
 }
 
