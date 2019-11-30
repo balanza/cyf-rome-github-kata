@@ -3,7 +3,7 @@ function squareArea(side) {
 } 
 
 function squareArea(radius){
-    return radius * radius * Math.PI;
+    return radius * radius * 3.14;
 }
 
 module.exports = {
