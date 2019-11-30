@@ -1,9 +1,9 @@
 function squareArea(side) {
-    return side * side;
+    return Math.pow(side, 2);
 } 
 
 function circleArea(radius){
-    return radius * radius * 3.14;
+    return Math.pow(radius, 2) * 3.14;
 }
 
 function triangleArea(base, height) {
